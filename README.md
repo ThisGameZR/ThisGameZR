@@ -6,7 +6,7 @@
 
 <table>
  <td>
-  <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=thisgamezr&" alt="thisgamezr" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisgamezr&show_icons=true&locale=en" alt="thisgamezr" />
+  <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=thisgamezr&" alt="thisgamezr" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=thisgamezr&show_icons=true&locale=en" alt="thisgamezr" />
  </td>
 </table>
